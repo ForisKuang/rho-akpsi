@@ -8,10 +8,10 @@ After cloning
 npm install
 ```
 
-Make sure you have webpack install globally
+Make sure you have webpack install globally along with webpack-dev-server, and webpack-cli
 
 ```
-npm install webpack -g
+npm install webpack webpack-cli webpack-dev-server -g
 ```
 
 Then run
