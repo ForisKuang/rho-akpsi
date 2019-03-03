@@ -1,0 +1,35 @@
+{
+  "name": "rho-akpsi",
+  "version": "1.0.0",
+  "description": "AKPsi Rho Chapter's Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForisKuang/rho-akpsi.git"
+  },
+  "keywords": [
+    "akpsi",
+    "rho"
+  ],
+  "author": "AKPsi Rho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForisKuang/rho-akpsi/issues"
+  },
+  "homepage": "https://github.com/ForisKuang/rho-akpsi#readme",
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "open-browser-webpack-plugin": "0.0.5",
+    "path": "^0.12.7"
+  }
+}
