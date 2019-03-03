@@ -4,6 +4,7 @@
   "description": "AKPsi Rho Chapter's Website",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server --hot --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
