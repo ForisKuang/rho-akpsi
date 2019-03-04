@@ -18,14 +18,17 @@ Make sure you have webpack install globally along with webpack-dev-server, and w
 npm install webpack webpack-cli webpack-dev-server -g
 ```
 
-Then run
+If you have an error running due to webpack not being found or if this is your first time using webpack please execute the following
+
+```
+npm link webpack
+```
+
+### Running the dev environment
+
+Run
 
 ```
 npm start
 ```
 
-If you have an error running due to webpack not being found, please link webpack
-
-```
-npm link webpack
-```
