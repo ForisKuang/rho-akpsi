@@ -2,6 +2,10 @@
 
 ### Setup
 
+If you don't have Node Package Manager, aka npm, please install that first by following this link.
+
+https://www.npmjs.com/get-npm
+
 After cloning
 
 ```
