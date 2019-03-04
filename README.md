@@ -32,3 +32,24 @@ Run
 npm start
 ```
 
+## Tutorials
+
+The following are some good react tutorials for those of you who are contributing but are unsure where to begin.
+
+This one is the general tutorial that React.JS has itself.
+
+```
+https://reactjs.org/tutorial/tutorial.html
+```
+
+A good intro on props, validation, state, and general nicities of components.
+
+```
+https://scotch.io/tutorials/reactjs-components-learning-the-basics
+```
+
+A very good overview to the general hooks that react.js provides.
+
+```
+https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
+```
